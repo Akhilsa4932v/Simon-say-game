@@ -15,5 +15,6 @@ GitHub for project hosting.
 
 . Each successful sequence increases in length
 
-![Screenshot 2024-05-23 222524](https://github.com/Akhilsa4932v/Simon-say-game/assets/137908360/f01b2122-d2c5-475a-86df-786f5a460eb3)
-![Screenshot 2024-05-23 222548](https://github.com/Akhilsa4932v/Simon-say-game/assets/137908360/f6e4ddf4-3bb3-478e-a912-913e156944a3)
+
+https://github.com/user-attachments/assets/c7350809-61a1-4a32-b703-c664fdea9c18
+
